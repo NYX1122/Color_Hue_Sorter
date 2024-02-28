@@ -1,0 +1,21 @@
+{
+  "name": "color_hue_sorter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node appRunner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYX1122/Color_Hue_Sorter.git"
+  },
+  "author": "BoDee Angus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYX1122/Color_Hue_Sorter/issues"
+  },
+  "homepage": "https://github.com/NYX1122/Color_Hue_Sorter#readme"
+}
